@@ -8,6 +8,8 @@ showWarningOnDirectExecution = true
 # Default: 'info'
 level = "debug"
 
+[general]
+secrets_backend = "file"
 
 
 [runner]
